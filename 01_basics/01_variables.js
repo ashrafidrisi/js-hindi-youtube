@@ -2,6 +2,7 @@
  let accountEmail="ashraf@gmail.com";
  var accountPassword="ashraf97";
   accountCity="jaipur";
+   let accountState;
   console.table([accountId,accountEmail,accountPassword,accountCity]);
   // accountId=27787; // not allow
   console.log(accountId);
@@ -14,4 +15,4 @@
    accountEmail="azmi@gmail.com";
    accountPassword="azmi56";
    accountCity="azamgarh";
-   console.table([accountId,accountEmail,accountPassword,accountCity]);
+   console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
