@@ -24,7 +24,7 @@
 
  // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-   //  Stach(Primitive) ,  Heap(Non=Primitive)
+   //  Stack(Primitive) ,  Heap(Non=Primitive)
 
     //  let mychannel = "ashrafdrem"
     //   let anothermyChannel =  mychannel
