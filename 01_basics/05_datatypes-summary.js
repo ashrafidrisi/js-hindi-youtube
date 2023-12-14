@@ -19,5 +19,34 @@
 
     // data type function hota hai bolte hai function object
 
-    const bigInt= 127823367792694402n;
-    console.log(typeof bigInt);
+    // const bigInt= 127823367792694402n;
+    // console.log(typeof bigInt);
+
+ // ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+   //  Stach(Primitive) ,  Heap(Non=Primitive)
+
+    //  let mychannel = "ashrafdrem"
+    //   let anothermyChannel =  mychannel
+    //   anothermyChannel="chaiashraf"
+    //   console.log(mychannel);
+    //   console.log(anothermyChannel);
+
+     let userOne = {
+        email:"user@google.com",
+        upi: "upi@ybl"
+     }
+
+       let userTwo = userOne;
+
+        userTwo.email = "ashraf@gmail.com"
+
+          console.log(userOne.email);
+          console.log(userTwo.email);
+
+
+
+
+
+
+
